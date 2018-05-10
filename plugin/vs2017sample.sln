@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "vs2017sample", "vs2017sample.vcxproj", "{F43D6BB8-B7D6-486A-82E5-BABBA9848525}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		IDA32 Debug|x64 = IDA32 Debug|x64
+		IDA32 Debug|x86 = IDA32 Debug|x86
+		IDA32 Release|x64 = IDA32 Release|x64
+		IDA32 Release|x86 = IDA32 Release|x86
+		IDA64 Debug|x64 = IDA64 Debug|x64
+		IDA64 Debug|x86 = IDA64 Debug|x86
+		IDA64 Release|x64 = IDA64 Release|x64
+		IDA64 Release|x86 = IDA64 Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F43D6BB8-B7D6-486A-82E5-BABBA9848525}.IDA32 Debug|x64.ActiveCfg = IDA32 Debug|x64
+		{F43D6BB8-B7D6-486A-82E5-BABBA9848525}.IDA32 Debug|x64.Build.0 = IDA32 Debug|x64
+		{F43D6BB8-B7D6-486A-82E5-BABBA9848525}.IDA32 Debug|x86.ActiveCfg = IDA32 Debug|x64
+		{F43D6BB8-B7D6-486A-82E5-BABBA9848525}.IDA32 Release|x64.ActiveCfg = IDA32 Release|x64
+		{F43D6BB8-B7D6-486A-82E5-BABBA9848525}.IDA32 Release|x64.Build.0 = IDA32 Release|x64
+		{F43D6BB8-B7D6-486A-82E5-BABBA9848525}.IDA32 Release|x86.ActiveCfg = IDA32 Release|x64
+		{F43D6BB8-B7D6-486A-82E5-BABBA9848525}.IDA64 Debug|x64.ActiveCfg = Debug|x64
+		{F43D6BB8-B7D6-486A-82E5-BABBA9848525}.IDA64 Debug|x64.Build.0 = Debug|x64
+		{F43D6BB8-B7D6-486A-82E5-BABBA9848525}.IDA64 Debug|x86.ActiveCfg = Debug|x64
+		{F43D6BB8-B7D6-486A-82E5-BABBA9848525}.IDA64 Release|x64.ActiveCfg = Release|x64
+		{F43D6BB8-B7D6-486A-82E5-BABBA9848525}.IDA64 Release|x64.Build.0 = Release|x64
+		{F43D6BB8-B7D6-486A-82E5-BABBA9848525}.IDA64 Release|x86.ActiveCfg = Release|x64
+		{F43D6BB8-B7D6-486A-82E5-BABBA9848525}.IDA64 Release|x86.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE0C0B38-B9C0-45B6-805A-562BAE4F4758}
+	EndGlobalSection
+EndGlobal
